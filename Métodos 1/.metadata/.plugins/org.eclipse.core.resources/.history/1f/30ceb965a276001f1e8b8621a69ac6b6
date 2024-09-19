@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Metodos">
+        <property name="context-root" value="Metodos"/>
+        <property name="java-output-path" value="/Metodos/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,21 @@
+public class Metodos1 {
+    public static void main(String[] args) {
+        // Número a ser verificado
+        int numero = -5;
+
+        // Chama o método para verificar se o número é positivo ou negativo
+        verificarNumero(numero);
+    }
+
+    // Método que verifica se um número é positivo ou negativo
+    public static void verificarNumero(int numero) {
+        // Verifica se o número é maior ou igual a zero
+        if (numero >= 0) {
+            // Se for, imprime que o número é positivo
+            System.out.println("O número é positivo.");
+        } else {
+            // Caso contrário, imprime que o número é negativo
+            System.out.println("O número é negativo.");
+        }
+    }
+}
